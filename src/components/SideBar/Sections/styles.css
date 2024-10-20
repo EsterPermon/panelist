@@ -1,0 +1,33 @@
+.sections-container {
+  margin: 16px 0;
+}
+
+.sections-header {
+  color: #605f63;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.section-folder {
+  margin: 16px 0 16px 0;
+}
+
+.section-name {
+  margin-left: 4px;
+  color: #49494b;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.subSection-container {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.section-item {
+  display: flex;
+  align-items: center;
+  margin: 4px 0;
+  cursor: pointer;
+}

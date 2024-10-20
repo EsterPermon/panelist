@@ -1,0 +1,19 @@
+.navigator-container {
+  display: flex;
+  flex-direction: column;
+  margin: 16px 0;
+}
+
+.navigation-link {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  padding: 4px 0;
+}
+
+.link-text {
+  margin-left: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #49494b;
+}
