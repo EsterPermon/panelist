@@ -1,0 +1,82 @@
+{
+  "panel": {
+    "twins": [
+      {
+        "id": "a21c102a-49f2-4f79-afe4-238cce87559c",
+        "firstname": "Hugh",
+        "lastname": "Volkman",
+        "email": "hughvolk21@gmail.com",
+        "status": "interview",
+        "createdAt": 1654214400000,
+        "lastUpdatedAt": 1725494400000,
+        "sociodemographics": {
+          "gender": "male",
+          "age": 43,
+          "residence": "Hannover",
+          "maritalStatus": "married",
+          "children": 3,
+          "householdIncome": 50000,
+          "profession": "Teacher"
+        },
+        "personalityTraces": {
+          "impulsiveness": "high",
+          "exploratoryBehavior": "medium",
+          "needForCognition": "low",
+          "riskAversion": "low",
+          "optimism": "high",
+          "needForUniqueness": "medium"
+        },
+        "interests": [
+          "Cyclist",
+          "Hiking",
+          "Pets",
+          "Formula 1",
+          "Holidays in France",
+          "Chinese Culture",
+          "Books",
+          "Cinema",
+          "Opera",
+          "FC Bayern München",
+          "Politics",
+          "Markus Lanz",
+          "Sustainability",
+          "Mexico",
+          "Thriller",
+          "Dogs",
+          "Fashion",
+          "Poetry Slams",
+          "Wine",
+          "Scotish Whisky"
+        ],
+        "activitiesHistory": [
+          { "activityType": "interview", "name": "Smartphone Insurance", "completedAt": 1716508800000 },
+          { "activityType": "interview", "name": "Price increase", "completedAt": 1695427200000 },
+          { "activityType": "interview", "name": "App feedback", "completedAt": 1695254400000 },
+          {
+            "activityType": "insight_search",
+            "name": "Which segment do you feel need more insurance coverage?",
+            "completedAt": 1716508800000
+          },
+          {
+            "activityType": "insight_search",
+            "name": "When is the last completedAt you have opted for insurance add-on package?",
+            "completedAt": 1714780800000
+          },
+          {
+            "activityType": "survey",
+            "name": "Hannover soft-launch",
+            "source": "anna@wertgarantie.de",
+            "completedAt": 1715817600000
+          },
+          {
+            "activityType": "review",
+            "name": "Trustpilot link",
+            "source": "anna@wertgarantie.de",
+            "completedAt": 1715385600000
+          },
+          { "activityType": "twin_creation", "name": "App review", "completedAt": 1693958400000 }
+        ]
+      }
+    ]
+  }
+}
