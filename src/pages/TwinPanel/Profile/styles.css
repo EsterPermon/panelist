@@ -1,0 +1,54 @@
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid lightgray;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 12px;
+}
+
+.twin-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.twin-info-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 8px;
+}
+
+.twin-header {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.twin-subheader {
+  font-size: 14px;
+  color: #88888c;
+}
+
+.twin-details-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.twin-detail {
+  display: flex;
+  align-items: center;
+  margin: 4px 0;
+}
+
+.twin-detail-label {
+  margin-left: 4px;
+  color: #605f63;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.status {
+  background-color: #fffdea;
+  color: #e28200;
+  padding: 2px;
+}

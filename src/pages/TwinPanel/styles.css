@@ -1,0 +1,22 @@
+.twin-panel-container {
+  display: flex;
+}
+
+.twin-panel-subcontainer-left {
+  margin-right: 24px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  flex-wrap: wrap;
+}
+
+.twin-panel-subcontainer-right {
+  display: flex;
+  flex-direction: column;
+  flex: 4;
+}
+
+.twin-panel-subcontainer-right-top {
+  display: flex;
+  flex: 1;
+}

@@ -1,0 +1,44 @@
+.personality-outer-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex: 1;
+}
+
+.personality-header {
+  color: #49494b;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.personality-inner-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid lightgray;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 4px 0 12px 0;
+  flex: 1;
+}
+
+.personality-item-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 4px 0;
+}
+
+.personality-item-label {
+  color: #49494b;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.personality-item-value-container {
+  color: #88888c;
+  font-size: 11px;
+}
+
+.personality-item-icon {
+  margin-left: 8px;
+}

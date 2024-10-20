@@ -1,0 +1,30 @@
+.interests-outer-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.interests-header {
+  color: #49494b;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.interests-inner-container {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid lightgray;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 4px 0 12px 0;
+}
+
+.interests-item {
+  background-color: #f7f7f7;
+  color: #605f63;
+  margin: 4px 6px;
+  padding: 0 6px;
+  border-radius: 4px;
+  font-size: 13px;
+}

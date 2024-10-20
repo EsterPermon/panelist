@@ -1,0 +1,76 @@
+.timeline-container {
+  margin-bottom: 24px;
+}
+
+.timeline-header-container {
+  display: flex;
+  align-items: center;
+  padding: 4px 0;
+  cursor: pointer;
+}
+
+.timeline-header {
+  display: flex;
+  padding: 3px 6px;
+  color: #49494b;
+  font-size: 13px;
+  font-weight: 500;
+  background-color: #f7f7f7;
+  border-radius: 4px;
+  margin-right: 4px;
+}
+
+.line {
+  border-bottom: 1px solid #f1f1f1;
+  display: flex;
+  flex-grow: 1;
+}
+
+.activity-container {
+  display: 'flex';
+  flex-direction: 'column';
+}
+
+.activity-subcontainer {
+  display: flex;
+  align-items: flex-end;
+}
+
+.activity-icon-container {
+  margin: 2px 8px 2px 0;
+}
+
+.activity-text-container {
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-between;
+}
+
+.activity-text {
+  color: #605f63;
+  font-size: 15px;
+}
+
+.activity-time-label {
+  color: #88888c;
+  font-size: 13px;
+}
+
+.vertical-line {
+  background-color: lightgray;
+  height: 28px;
+  width: 1px;
+  margin-left: 3px;
+}
+
+.bold-text {
+  color: #2f2f31;
+  font-size: '15px';
+  font-weight: 500;
+  border-bottom: 1px dashed #2f2f31;
+}
+
+.highlight-text {
+  color: #6552ff;
+  font-size: 15px;
+}

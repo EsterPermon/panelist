@@ -1,0 +1,34 @@
+.basic-info-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid lightgray;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.basic-info-header {
+  color: #2f2f31;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.info-detail {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.info-detail-label {
+  margin: 2px 0;
+  color: #7a75ff;
+  font-size: 13px;
+}
+
+.info-detail-value {
+  margin: 2px 0;
+  color: #49494b;
+  font-size: 15px;
+}
