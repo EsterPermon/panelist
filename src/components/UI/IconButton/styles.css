@@ -1,0 +1,15 @@
+.button-container {
+  border: none;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  color: #49494b;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.button-label {
+  margin-left: 4px;
+}
